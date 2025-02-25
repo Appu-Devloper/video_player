@@ -73,10 +73,10 @@ dependencies:
    - Saves progress to `SharedPreferences` for persistence.
 
 ## Screenshots
-![Video List Screen](assets/image1.png)
-![Video Player Resume Screen](assets/image2.png)
-![Video Locked Screen](assets/image3.png)
-![ Progress](assets/image2.png)
+![Video List Screen](assets/image1.jpeg)
+![Video Player Resume Screen](assets/image2.jpeg)
+![Video Locked Screen](assets/image3.jpeg)
+![ Progress](assets/image2.jpeg)
 ## Future Enhancements
 - **Offline Video Support**
 - **Custom Video Speed Control**
