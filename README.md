@@ -14,7 +14,7 @@ This is a Flutter-based video player application that allows users to watch vide
 ## Installation
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-repo/video-player-app.git
+   git clone https://github.com/Appu-Devloper/video_player.git
    cd video-player-app
    ```
 
